@@ -1,16 +1,13 @@
-### Hi there 👋
+## hi 
+![](https://komarev.com/ghpvc/?username=05xapresses&color=green)
 
-<!--
-**05xapresses/05xapresses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like sleeping and uhhhhh can someone tell me why I made this? 
 
-Here are some ideas to get you started:
+somethimes I create useless things like [this](https://github.com/05xapresses/powercord-weather) or [this](https://github.com/05xapresses/planwiadomienia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+btw I'm bad at programming so what the fuck are you doing on this profile go somewhere else
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=05xapresses&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+I live in poland pls help
+<!--i need friends :(-->
