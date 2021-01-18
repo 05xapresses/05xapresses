@@ -12,4 +12,6 @@ I don't like cheese and javascript
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=05xapresses&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 I live in poland pls help
+
+czadowe readme
 <!--i need friends :(-->
