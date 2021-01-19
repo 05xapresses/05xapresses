@@ -1,7 +1,7 @@
 ## hi 
 ![](https://komarev.com/ghpvc/?username=05xapresses&color=green)
 
-![](https://cdn.discordapp.com/attachments/548217110791323661/800843140021878825/syf.png)
+![](https://cdn.discordapp.com/attachments/548217110791323661/801111777684881408/syf_but_better.png)
 
 I like sleeping and uhhhhh can someone tell me why I made this? \
 somethimes I create useless things like [this](https://github.com/05xapresses/powercord-weather) or [this](https://github.com/05xapresses/planwiadomienia)
